@@ -1,0 +1,46 @@
+/* p{
+   color: blue; 
+   font-family: cursive;
+   font-weight: bold;
+} */
+#par{
+    color: brown;
+}
+#name{
+    color: blueviolet;
+}
+.about{
+    background-color: burlywood;
+}
+#li{
+    color: red;
+    font-family: fantasy;
+}
+#p{
+    color: aqua;
+    background-color: black;
+}
+img{
+    height: 60%;
+    width: 80%;
+    border: 20px;
+    border-radius: 5%;
+    border-color: black;
+    background-color: blue;
+
+}
+#img{
+    height: 50%;
+    width: 30%;
+}
+*{
+    border: 50px black;
+    padding-top: 20px;
+}
+.div p{
+    color: blue;
+}
+.cow p a{
+    color:brown;
+    font-size: larger;
+}
